@@ -5,8 +5,8 @@
 }
 
 body {
-  height: 100%;
-  background-color: yellow;
+  height: 100vh;
+  background-color: #F6D050;
   font-size: 100%;
   font-family: "Outfit", sans-serif;
   display: flex;
@@ -41,7 +41,7 @@ body {
 }
 
 .card-content #tag {
-  background-color: yellow;
+  background-color: #F6D050;
   display: inline;
   padding: 5px 10px;
   border-radius: 6px;
@@ -87,7 +87,7 @@ body {
 }
 
 footer {
-  position: relative;
+  position: absolute;
   bottom: 0;
 }
 
